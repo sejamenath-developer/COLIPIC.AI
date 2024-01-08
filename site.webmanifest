@@ -1,0 +1,19 @@
+{
+    "name": "ChatGPT | Niansuh"
+    "short_name": "ChatGPT",
+    "icons": [
+      {
+        "src": "/bot.png"
+        "type": "image/png"
+      },
+      {
+        "src": "/bot.png",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "/",
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone"
+  }
+  
