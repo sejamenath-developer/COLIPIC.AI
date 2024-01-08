@@ -1,6 +1,6 @@
 English / [简体中文](./README_CN.md) / [Tiếng việt giản thể](.README_VN)
 
-<h1 align="center">ChatGPT Plugins</h1>
+<h1 align="center">ChatGPT-Next-Web</h1>
 
  ## [Deployed on Hugging Face](https://huggingface.co/login?next=%2Fspaces%2FNiansuh%2Fchat%3Fduplicate%3Dtrue)
 
