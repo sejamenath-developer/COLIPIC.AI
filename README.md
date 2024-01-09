@@ -121,6 +121,11 @@ yarn dev
 ```shell
 bash <(curl -s https://raw.githubusercontent.com/Niansuh/ChatGPT-Plugins/main/scripts/setup.sh)
 ```
+### Contributors
+
+<a href="https://github.com/Niansuh/ChatGPT/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Niansuh/ChatGPT" />
+</a>
 
 ## LICENSE
 
